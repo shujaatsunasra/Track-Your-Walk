@@ -182,7 +182,7 @@ Your fitness app now delivers:
 ### Quick Start
 ```bash
 # Clone and setup
-git clone <repository-url>
+git clone https://github.com/shujaatsunasra/Track-Your-Walk
 cd fitness_mobile
 
 # Install dependencies  
